@@ -47,7 +47,8 @@ Credit To : https://github.com/jgmdev (Orignal Anti DDos Script)
 
 Credit To : https://t.me/horasss (Orignal Anti Torrent Script)
 
-Report Bugs Contact : https://t.me/PR_Aiman Or https://t.me/Rerechan02
+Report Bugs Contact : https://t.me/PR_Aiman
+https://t.me/Rerechan02
   
 <p align="center">
 <a href="https://github.com/praiman99"><img title="Github" src="https://img.shields.io/badge/PR Aiman-brightgreen?style=for-the-badge&logo=github"></a>
