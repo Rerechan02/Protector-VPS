@@ -29,8 +29,7 @@
 </pre></p>
 
 <h3 align="center">Additional Info</h3>
-Recommended OS :
-
+Feature :
 
 - Protect From DDos
 
