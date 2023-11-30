@@ -1,6 +1,6 @@
-<h1 align="center"> Protection-VPS <img src="https://img.shields.io/badge/Version-2.0-blue.svg"></h1>
+<h1 align="center"> Protector-VPS <img src="https://img.shields.io/badge/Version-3.0-blue.svg"></h1>
 
-<p align="center">Protection-VPS is made by PR Aiman for protect VPS especially for VPN users</p>
+<p align="center">Protection-VPS is made by PR Aiman & Moded By Rerechan02 for protect VPS especially for Tunneling users</p>
 <p align="center">
 <a href="https://t.me/Rerechan02"><img title="Made in Malaysia Indonesia" src="https://img.shields.io/badge/MADE%20IN-MALAYSIA & INDONESIA-SCRIPT?colorA=%23ff0000&colorB=%23ffffff&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
@@ -15,7 +15,7 @@
 <p align="center">
   <a><img src="https://img.shields.io/badge/Service-Anti--DDos-success.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Anti--Bruteforce-success.svg"></a>
-  <a><img src="https://img.shields.io/badge/Service-Anti--Port-Scanning-success.svg"></a>
+  <a><img src="https://img.shields.io/badge/Service-Anti--Port--Scanning-success.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Anti--torrent-success.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-BBR--TCP-success.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Limit--Speed--Bandwith-success.svg"></a>
